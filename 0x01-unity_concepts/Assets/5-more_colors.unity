@@ -229,7 +229,7 @@ PrefabInstance:
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 4.87
       objectReference: {fileID: 0}
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
@@ -239,7 +239,7 @@ PrefabInstance:
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 3.44
       objectReference: {fileID: 0}
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
@@ -276,10 +276,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2455705835088026589, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a4fb81c6c6e424942b0f9d089d33f6e9, type: 2}
     - target: {fileID: 2455705835088026591, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_Name
-      value: Ball (4)
+      value: Black Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3ce69dcfc1350b48a9ff7a247b33a5a, type: 3}
@@ -381,7 +386,7 @@ PrefabInstance:
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 5.32
       objectReference: {fileID: 0}
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
@@ -428,10 +433,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2455705835088026589, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c9a9cf97d7850544896a26a711c45a3b, type: 2}
     - target: {fileID: 2455705835088026591, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_Name
-      value: Ball (2)
+      value: Green Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3ce69dcfc1350b48a9ff7a247b33a5a, type: 3}
@@ -450,7 +460,7 @@ PrefabInstance:
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 2.38
       objectReference: {fileID: 0}
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
@@ -460,7 +470,7 @@ PrefabInstance:
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2.21
       objectReference: {fileID: 0}
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
@@ -497,10 +507,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2455705835088026589, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b39bc52ee7fbf654992313ace5409665, type: 2}
     - target: {fileID: 2455705835088026591, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_Name
-      value: Ball (3)
+      value: White Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3ce69dcfc1350b48a9ff7a247b33a5a, type: 3}
@@ -529,7 +544,7 @@ PrefabInstance:
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 4.39
       objectReference: {fileID: 0}
     - target: {fileID: 2455705835088026563, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
@@ -566,10 +581,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2455705835088026589, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8de9b44e787565748a19d60c37079de1, type: 2}
     - target: {fileID: 2455705835088026591, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_Name
-      value: Ball (1)
+      value: Blue Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3ce69dcfc1350b48a9ff7a247b33a5a, type: 3}
@@ -727,10 +747,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2455705835088026589, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2649028dde832884e9aae5f1c0c15f30, type: 2}
     - target: {fileID: 2455705835088026591, guid: e3ce69dcfc1350b48a9ff7a247b33a5a,
         type: 3}
       propertyPath: m_Name
-      value: Ball
+      value: Red Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3ce69dcfc1350b48a9ff7a247b33a5a, type: 3}
