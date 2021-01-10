@@ -13,6 +13,9 @@ public class PlayerController : MonoBehaviour
     public Text healthText;
     public Text winLoseText;
     public Image winLoseBG;
+    public Joystick moveJoystick;
+    Vector3 translateObj;
+    Vector3 rotateObj;
     // Start is called before the first frame update
     void Start()
     {
@@ -34,22 +37,31 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey("w"))
+        if (Input.touchSupported)
         {
-            Player.AddForce(0, 0, speed * Time.deltaTime);
+            // Active the Touch option for device
+            moveJoystick.gameObject.SetActive(true);
+            // Get the value of the X and Z input axis for movement.
+            translateObj.x = moveJoystick.Horizontal;// Horizontal
+            translateObj.z = moveJoystick.Vertical;// Vertical
+            // Invert the Axis => move in X rotate in Z
+            rotateObj.x = moveJoystick.Vertical;// Vertical
+            rotateObj.z = moveJoystick.Horizontal;// Horizontal
         }
-        if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey("s"))
+        else
         {
-            Player.AddForce(0, 0, -speed * Time.deltaTime);
+            moveJoystick.gameObject.SetActive(false);
+            // Get the value of the X and Z input axis for movement.
+            translateObj.x = Input.GetAxis("Horizontal");
+            translateObj.z = Input.GetAxis("Vertical");
+            // Invert the Axis => move in X rotate in Z
+            rotateObj.x = Input.GetAxis("Vertical");
+            rotateObj.z = Input.GetAxis("Horizontal");
         }
-        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey("d"))
-        {
-            Player.AddForce(speed * Time.deltaTime, 0, 0);
-        }
-        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey("a"))
-        {
-            Player.AddForce(-speed * Time.deltaTime, 0, 0);
-        }
+        // Apply force to move the assets
+        Player.AddForce(translateObj * speed * Time.deltaTime);
+        // Apply force to rotate the assets
+        Player.transform.Rotate(rotateObj * speed * Time.deltaTime);
     }
 
     void OnTriggerEnter(Collider other)
