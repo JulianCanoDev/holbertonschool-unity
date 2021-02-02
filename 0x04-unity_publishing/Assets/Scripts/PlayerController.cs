@@ -32,6 +32,11 @@ public class PlayerController : MonoBehaviour
             winLoseBG.gameObject.SetActive(true);
             StartCoroutine(LoadScene(3f));
         }
+
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("menu");
+        }
     }
 
     // Update is called once per frame
