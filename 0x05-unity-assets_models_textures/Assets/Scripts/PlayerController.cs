@@ -1,0 +1,84 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    [SerializeField] private float horizontalMove;
+    [SerializeField] private float verticalMove;
+    [SerializeField] private float playerSpeed;
+    [SerializeField] private float gravity = 40.0f;
+    [SerializeField] private float fallVelocity;
+    [SerializeField] private float jumpForce;
+
+    public CharacterController Player;
+    public Camera mainCamera;
+    private Vector3 movePlayer;
+
+    private Vector3 playerInput;
+    private Vector3 camForward;
+    private Vector3 camRight;
+    void Start()
+    {
+        Player = GetComponent<CharacterController>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        horizontalMove = Input.GetAxis("Horizontal");
+        verticalMove = Input.GetAxis("Vertical");
+
+        playerInput = new Vector3(horizontalMove, 0, verticalMove);
+        playerInput = Vector3.ClampMagnitude(playerInput, 1);
+
+        camDirection();
+
+        movePlayer = playerInput.x * camRight + playerInput.z * camForward;
+
+        movePlayer = movePlayer * playerSpeed;
+
+        Player.transform.LookAt(Player.transform.position + movePlayer);
+
+        setGravity();
+
+        PlayerSkills();
+
+        Player.Move(movePlayer * Time.deltaTime);
+    }
+
+    void camDirection()
+    {
+        camForward = mainCamera.transform.forward;
+        camRight = mainCamera.transform.right;
+
+        camForward.y = 0;
+        camRight.y = 0;
+
+        camForward = camForward.normalized;
+        camRight = camRight.normalized;
+    }
+
+    void PlayerSkills()
+    {
+        if (Player.isGrounded && Input.GetButtonDown("Jump"))
+        {
+            fallVelocity = jumpForce;
+            movePlayer.y = fallVelocity;
+        }
+    }
+
+    void setGravity()
+    {      
+        if (Player.isGrounded)
+        {
+            fallVelocity = -gravity * Time.deltaTime;
+            movePlayer.y = fallVelocity;
+        }
+        else
+        {
+            fallVelocity -= gravity * Time.deltaTime;
+            movePlayer.y = fallVelocity;
+        }
+    }
+}
