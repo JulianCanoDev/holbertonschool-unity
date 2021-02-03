@@ -45,6 +45,9 @@ public class PlayerController : MonoBehaviour
         PlayerSkills();
 
         Player.Move(movePlayer * Time.deltaTime);
+
+        if (transform.position.y < -40)
+            transform.position = new Vector3(0, 60, 0);
     }
 
     void camDirection()
