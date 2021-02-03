@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class TimerTrigger : MonoBehaviour
 {
+    public GameObject Player;
     // Start is called before the first frame update
     void Start()
     {
-        
+        Player = FindObjectOfType<PlayerController>().gameObject;
     }
-
-    // Update is called once per frame
-    void Update()
+    void OnTriggerExit(Collider other)
     {
-        
+        Player.GetComponent<Timer>().enabled = true;
     }
 }
