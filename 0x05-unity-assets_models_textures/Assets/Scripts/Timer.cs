@@ -20,8 +20,8 @@ public class Timer : MonoBehaviour
 
         string minutes = ((int) t / 60).ToString();
         string seconds = ((int) t % 60).ToString("D2");
-        string cents = ((int)(t * 100) % 100).ToString("D2");
+        string hundredths = ((int)(t * 100) % 100).ToString("D2");
 
-        timerText.text = minutes + ":" + seconds + "." + cents;
+        timerText.text = $"{minutes}:{seconds}.{hundredths}";
     }
 }
