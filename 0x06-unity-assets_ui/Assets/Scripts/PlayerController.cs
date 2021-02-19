@@ -6,10 +6,10 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float horizontalMove;
     [SerializeField] private float verticalMove;
-    [SerializeField] private float playerSpeed;
+    [SerializeField] private float playerSpeed = 6.0f;
     [SerializeField] private float gravity = 40.0f;
     [SerializeField] private float fallVelocity;
-    [SerializeField] private float jumpForce;
+    [SerializeField] private float jumpForce = 10.0f;
 
     public CharacterController Player;
     public Camera mainCamera;
@@ -72,7 +72,7 @@ public class PlayerController : MonoBehaviour
     }
 
     void setGravity()
-    {      
+    {
         if (Player.isGrounded)
         {
             fallVelocity = -gravity * Time.deltaTime;
