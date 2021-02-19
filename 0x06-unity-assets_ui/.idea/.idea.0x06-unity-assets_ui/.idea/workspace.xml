@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="721c67ca-e891-4b3e-9f2f-22c105f8b137" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,8 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/OptionsMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1odpS4w3Hulme6brj4K4EZmZIdQ" />
@@ -48,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1613626351807</updated>
       <workItem from="1613626436409" duration="573000" />
-      <workItem from="1613674940384" duration="7259000" />
+      <workItem from="1613674940384" duration="11337000" />
+      <workItem from="1613701195548" duration="1547000" />
     </task>
     <servers />
   </component>
