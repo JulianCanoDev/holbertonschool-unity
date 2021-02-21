@@ -677,12 +677,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 260330018}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a372c397ae5d11478b4e363c59b9667, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  winCanvas: {fileID: 0}
+  winCanvas: {fileID: 790069361}
   timerText: {fileID: 7202950577259769430}
 --- !u!1 &263740771
 GameObject:
