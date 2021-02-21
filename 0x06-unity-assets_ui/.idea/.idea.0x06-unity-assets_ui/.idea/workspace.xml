@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="721c67ca-e891-4b3e-9f2f-22c105f8b137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WinMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WinMenu.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Timer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Timer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Options.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Options.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OptionsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OptionsMenu.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +17,12 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/OptionsMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/WinMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OptionsMenu.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1odpS4w3Hulme6brj4K4EZmZIdQ" />
@@ -61,7 +58,7 @@
       <workItem from="1613674940384" duration="11337000" />
       <workItem from="1613701195548" duration="2311000" />
       <workItem from="1613838747220" duration="2064000" />
-      <workItem from="1613932135171" duration="1783000" />
+      <workItem from="1613932135171" duration="3790000" />
     </task>
     <servers />
   </component>
