@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
+    public GameObject winCanvas;
     public Text timerText;
     private float startTime;
     // Start is called before the first frame update
@@ -23,5 +24,11 @@ public class Timer : MonoBehaviour
         string hundredths = ((int)(t * 100) % 100).ToString("D2");
 
         timerText.text = $"{minutes}:{seconds}.{hundredths}";
+    }
+    
+    public void Win()
+    {
+        winCanvas.transform.Find("FinalTime").GetComponent<Text>().text = timerText.text;
+        timerText.text = "";
     }
 }
