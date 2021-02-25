@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="721c67ca-e891-4b3e-9f2f-22c105f8b137" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/LinuxPlayer_s.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer.x86_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.ComponentModel.Composition.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Drawing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.EnterpriseServices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Globalization.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Runtime.Serialization.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.ServiceModel.Internals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.AIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.AccessibilityModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.AnimationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.AssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.AudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ClothModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ClusterInputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.CrashReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.DSPGraphModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.DirectorModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.GameCenterModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.GridModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.HotReloadModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.IMGUIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ImageConversionModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.InputLegacyModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.InputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.LocalizationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.Physics2DModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ProfilerModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.StreamingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.SubstanceModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.SubsystemsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.TLSModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.TerrainModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.TextCoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.TextRenderingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.TilemapModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UIElementsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UNETModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UmbraModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityConnectModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.VFXModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.VRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.VehiclesModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.VideoModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.WindModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.XRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/UnityEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Managed/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/2.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/4.5/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/browscap.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/etc/mono/registry/last-btime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Resources/UnityPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Resources/unity default resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/Resources/unity_builtin_extra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/app.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/globalgamemanagers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/globalgamemanagers.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level0.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level1.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/level4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets0.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets0.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets1.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets1.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets2.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets2.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets3.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets3.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets4.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/Platformer_Data/sharedassets4.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/UnityPlayer.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Linux/UnityPlayer_s.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Frameworks/UnityPlayer.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Frameworks/libMonoPosixHelper.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Frameworks/libcrypto.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Frameworks/libmonobdwgc-2.0.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Frameworks/libssl.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MacOS/Platformer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/MonoBleedingEdge/etc/mono/registry/last-btime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Drawing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/UnityEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Managed/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/Resources/unity_builtin_extra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/app.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/globalgamemanagers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/globalgamemanagers.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level0.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level1.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/level4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets0.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets0.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets1.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets1.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets2.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets2.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets3.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets3.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets4.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets4.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/DefaultPreferences.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/MainMenu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Mac/Mac.app/Contents/Resources/unity default resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Platformer_Linux_x86_64.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Platformer_Mac.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Platformer_Windows_x86_64.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/2.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/2.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/2.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.5/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.5/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/4.5/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/browscap.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.ComponentModel.Composition.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Drawing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.EnterpriseServices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Globalization.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Runtime.Serialization.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.ServiceModel.Internals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.AIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ARModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.AccessibilityModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.AnimationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.AssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.AudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ClothModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ClusterInputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.CrashReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.DSPGraphModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.DirectorModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.GameCenterModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.GridModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.HotReloadModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.IMGUIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ImageConversionModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.InputLegacyModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.InputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.LocalizationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.Physics2DModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ProfilerModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.StreamingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.SubstanceModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.SubsystemsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.TLSModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.TerrainModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.TextCoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.TextRenderingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.TilemapModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UIElementsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UNETModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UmbraModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityConnectModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.VFXModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.VRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.VehiclesModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.VideoModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.WindModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.XRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/UnityEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Managed/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Resources/unity default resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/Resources/unity_builtin_extra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/app.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/globalgamemanagers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/globalgamemanagers.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level0.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level1.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/level4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets0.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets0.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets1.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets1.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets2.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets2.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets3.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets3.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets4.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/Platformer_Data/sharedassets4.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/UnityCrashHandler64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/Windows/UnityPlayer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.0x06-unity-assets_ui/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/WinMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OptionsMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1odpS4w3Hulme6brj4K4EZmZIdQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="721c67ca-e891-4b3e-9f2f-22c105f8b137" name="Default Changelist" comment="" />
+      <created>1613626351807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613626351807</updated>
+      <workItem from="1613626436409" duration="573000" />
+      <workItem from="1613674940384" duration="11337000" />
+      <workItem from="1613701195548" duration="2311000" />
+      <workItem from="1613838747220" duration="2064000" />
+      <workItem from="1613932135171" duration="5394000" />
+      <workItem from="1614199065404" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
