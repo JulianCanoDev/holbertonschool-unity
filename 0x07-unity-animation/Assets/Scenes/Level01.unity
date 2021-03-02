@@ -1865,6 +1865,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe07f7897be8894d9c0e52b383cefce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MainCamera: {fileID: 881394889}
+  Player: {fileID: 260330018}
+  TimerCanvas: {fileID: 1662147911}
 --- !u!1 &630060918 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: c1fc0515b29b60e489ea0616dbdd4d09,

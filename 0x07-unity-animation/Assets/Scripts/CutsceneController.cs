@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class CutsceneController : MonoBehaviour
 {
+    public GameObject MainCamera;
+    public GameObject Player;
+    public GameObject TimerCanvas;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,5 +17,13 @@ public class CutsceneController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void camTransition()
+    {
+        MainCamera.SetActive(true);
+        TimerCanvas.SetActive(true);
+        Player.GetComponent<PlayerController>().enabled = true;
+        gameObject.SetActive(false);
     }
 }
