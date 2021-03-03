@@ -7140,7 +7140,7 @@ MonoBehaviour:
   horizontalMove: 0
   verticalMove: 0
   playerSpeed: 6
-  gravity: 30
+  gravity: 23
   fallVelocity: 0
   jumpForce: 15
   Player: {fileID: 4405734514607594093}
