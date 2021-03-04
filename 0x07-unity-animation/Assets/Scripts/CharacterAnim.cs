@@ -14,6 +14,13 @@ public class CharacterAnim : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // if (Input.GetAxis("Horizontal") || Input.GetAxis("Vertical")
+        if (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0 )
+        {
+            anim.SetBool("isRunning", true);
+        }
+        else
+        {
+            anim.SetBool("isRunning", false);
+        }
     }
 }
