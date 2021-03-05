@@ -11,6 +11,15 @@ public class CharacterAnim : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+    private void OnEnable()
+    {
+        PlayerController.Jump += Jump;
+    }
+
+    private void OnDisable()
+    {
+        PlayerController.Jump -= Jump;
+    }
     // Update is called once per frame
     void Update()
     {
@@ -22,10 +31,10 @@ public class CharacterAnim : MonoBehaviour
         {
             anim.SetBool("isRunning", false);
         }
+    }
 
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            anim.SetTrigger("jump");
-        }
+    void Jump()
+    {
+        anim.SetBool("jump", PlayerController.isJumping);
     }
 }

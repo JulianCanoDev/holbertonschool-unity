@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,6 +11,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float gravity = 40.0f;
     [SerializeField] private float fallVelocity;
     [SerializeField] private float jumpForce = 10.0f;
+    public static bool isJumping;
+    public static event Action Jump;
 
     public CharacterController Player;
     public Camera mainCamera;
@@ -66,6 +69,8 @@ public class PlayerController : MonoBehaviour
     {
         if (Player.isGrounded && Input.GetButtonDown("Jump"))
         {
+            isJumping = true;
+            Jump();
             fallVelocity = jumpForce;
             movePlayer.y = fallVelocity;
         }
@@ -75,6 +80,12 @@ public class PlayerController : MonoBehaviour
     {
         if (Player.isGrounded)
         {
+            if (isJumping)
+            {
+                isJumping = false;
+                Jump();
+            }
+
             fallVelocity = -gravity * Time.deltaTime;
             movePlayer.y = fallVelocity;
         }
