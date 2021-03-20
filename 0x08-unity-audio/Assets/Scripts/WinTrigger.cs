@@ -9,6 +9,8 @@ public class WinTrigger : MonoBehaviour
     public Text timerText;
     public GameObject WinCanvas;
     public Text WinScore;
+    public AudioSource audioSource;
+    public AudioClip audioClip;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,5 +25,6 @@ public class WinTrigger : MonoBehaviour
         timerText.fontSize = 60;
         WinScore.text = timerText.text;
         WinCanvas.SetActive(true);
+        audioSource.PlayOneShot(audioClip);
     }
 }
