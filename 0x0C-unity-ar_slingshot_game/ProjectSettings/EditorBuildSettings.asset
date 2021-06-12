@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/ARSlingshotGame.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1eba84ba3eddfe442ae8d8becb998ec7, type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3425f407263ce7a4190be6ff2dae168e, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 308dd9f8105415e4580af0ca024d4a31, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6053c0cb5328a354faa12969d83c1d5c, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a86405936a82fbe418bbd72a8fc2bc3f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f6f9f2831b07ffa4caee9dd3f62aad4f, type: 2}
