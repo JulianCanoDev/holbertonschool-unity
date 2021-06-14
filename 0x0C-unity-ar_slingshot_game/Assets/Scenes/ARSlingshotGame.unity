@@ -1543,7 +1543,7 @@ GameObject:
   - component: {fileID: 1878631622}
   - component: {fileID: 1878631626}
   m_Layer: 0
-  m_Name: AR Session Origin
+  m_Name: AR Plane Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
