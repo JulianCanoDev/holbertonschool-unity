@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-4082617339604316548
+--- !u!114 &-9080603338180774960
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: glow_animated
-  m_Shader: {fileID: -6465566751694194690, guid: d12691e4fd32b05cfb8278fd4bbd62c8, type: 3}
+  m_Name: hologram
+  m_Shader: {fileID: -6465566751694194690, guid: 0c22646d823a2acc9a546b04d17305c0, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,6 +32,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_50a638f428f24bf98d492015f0885ecf:
+        m_Texture: {fileID: 2800000, guid: 4176536b10f544ba988539650a87394f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -89,9 +93,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_26d744d1f1f1443790e43b93d83e7826: 0
-    - Vector1_cf4bb2b66428471aaffc9e5011d79ee6: 0.99
-    - Vector1_ecdfa240af8e4d43be878f87442cd4e0: 3
+    - Vector1_5ac43d0a35774f15bf1adadb6e44faef: 1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -119,9 +121,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_2018185fb04349ccb222fe72a9bcb506: {r: 1, g: 0, b: 0.8818741, a: 0}
-    - Color_52328aeb3bd143a6a0b756dcaefe0f2b: {r: 0, g: 0, b: 0, a: 0}
-    - Color_686b41f8a0b94b0e8cee3be0cb6b1b09: {r: 0, g: 1, b: 0.06282711, a: 0}
+    - Color_0d94d6e7a7d34736befda9dffce19ed8: {r: 0, g: 0.1240954, b: 1, a: 0}
+    - Vector2_5f1692b0f1da46a9baa688d2daa3aeba: {r: 64, g: 64, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
