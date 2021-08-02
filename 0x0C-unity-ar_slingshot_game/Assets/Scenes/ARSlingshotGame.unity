@@ -266,8 +266,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetPrefab: {fileID: 3829292259584235273, guid: 63741a0c0e7628c4b8b7b7aec207d81b, type: 3}
-  targetsNum: 4
-  ammo: 10
+  targetsNum: 5
+  ammo: 7
   planeSearchingCanvas: {fileID: 633987594}
   selectPlaneCanvas: {fileID: 165585583}
   startButton: {fileID: 1972846555}
