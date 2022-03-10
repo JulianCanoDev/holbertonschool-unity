@@ -5,12 +5,12 @@ using UnityEngine.UI;
 
 public class WinTrigger : MonoBehaviour
 {
-    public GameObject player;
-    public Text timerText;
-    public GameObject WinCanvas;
-    public Text WinScore;
-    public AudioSource audioSource;
-    public AudioClip audioClip;
+    [SerializeField] private GameObject player;
+    [SerializeField] private Text timerText;
+    [SerializeField] private GameObject WinCanvas;
+    [SerializeField] private Text WinScore;
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip audioClip;
     // Start is called before the first frame update
     void Start()
     {
